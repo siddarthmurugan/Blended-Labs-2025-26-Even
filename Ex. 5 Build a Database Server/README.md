@@ -96,22 +96,16 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1268" height="625" alt="image" src="https://github.com/user-attachments/assets/443f2d6d-1f29-4a48-8619-3c2cf6dc674f" />
 
----
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
-
----
+<img width="1257" height="947" alt="image" src="https://github.com/user-attachments/assets/d1f67b7d-5985-416f-8033-dd684bb9a64d" />
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
-
----
-
+<img width="1250" height="455" alt="image" src="https://github.com/user-attachments/assets/58502e39-a229-4761-8392-c48973849f58" />
 ## Result
 
 This experiment demonstrated how to build a database server in AWS using an EC2 instance. By installing and configuring a DBMS, creating a sample database, and testing connectivity, the fundamentals of hosting and managing a cloud-based database server were underst
