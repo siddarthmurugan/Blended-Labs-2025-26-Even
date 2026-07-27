@@ -71,10 +71,13 @@ Describe step-by-step how you performed this experiment in your own words.
 ---
 
 ## Output Screenshots 
+```
 
+<img width="1248" height="659" alt="Screenshot 2026-07-27 222319" src="https://github.com/user-attachments/assets/e3b81b3b-9f12-44ab-b8db-892f27731f5b" />
+<img width="1224" height="630" alt="Screenshot 2026-07-27 222238" src="https://github.com/user-attachments/assets/656ba49c-12fc-4c38-8377-9a6f77578b0c" />
+<img width="1257" height="754" alt="Screenshot 2026-07-27 222304" src="https://github.com/user-attachments/assets/3b868428-1534-433e-b2de-c440383e6057" />
 
----
-
+```
 
 ## Result
 
