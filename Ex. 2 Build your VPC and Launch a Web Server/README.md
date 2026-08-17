@@ -105,6 +105,5 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 
 ## Result 
--17 135039" src="https://github.com/user-attachments/assets/4e9a85a7-802f-419d-887e-1de5a8783726" />
 
 This experiment successfully demonstrated the creation of a custom VPC and deployment of a public-facing web server in AWS. By configuring networking components such as subnets, route tables, and security groups, and by launching an EC2 instance with a web server, the basic architecture of a cloud-hosted application was understood.
