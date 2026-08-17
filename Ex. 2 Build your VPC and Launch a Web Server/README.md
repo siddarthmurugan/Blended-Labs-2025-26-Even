@@ -100,18 +100,23 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-<img width="1285" height="676" alt="image" src="https://github.com/user-attachments/assets/21f44234-c8a9-4430-a9d1-a5c76c79f8a8" />
-
+<img width="1905" height="916" alt="Screenshot 2026-08-17 134456" src="https://github.com/user-attachments/assets/1e682286-971f-4480-8f54-81c84c846940" />
+<img width="1907" height="902" alt="Screenshot 2026-08-17 134334" src="https://github.com/user-attachments/assets/ac00f4a3-aea7-4962-b413-25cb5c929b15" />
+<img width="1916" height="912" alt="Screenshot 2026-08-17 133657" src="https://github.com/user-attachments/assets/3e811895-90f2-4624-917a-e558c4a9d484" />
+<img width="1915" height="926" alt="Screenshot 2026-08-17 133606" src="https://github.com/user-attachments/assets/ab7cb5ce-0bf4-4153-85bb-90b133285289" />
+<img width="1907" height="912" alt="Screenshot 2026-08-17 133302" src="https://github.com/user-attachments/assets/5d393256-7dcf-407c-b853-249ca71a1f20" />
 
 ### Screenshot 2: EC2 Instance Running
-
-<img width="1278" height="598" alt="image" src="https://github.com/user-attachments/assets/79e4cada-7785-4e75-83f1-e2b2476f8b74" />
+<img width="1908" height="897" alt="Screenshot 2026-08-17 134941" src="https://github.com/user-attachments/assets/361bd890-7748-408d-8d99-bbc73a2e3e43" />
+<img width="1895" height="860" alt="Screenshot 2026-08-17 135039" src="https://github.com/user-attachments/assets/b0acd653-b630-4895-9c4f-17ff77bc6c0d" />
 
 
 ### Screenshot 3: Web Server Output in Browser
 
-<img width="1277" height="433" alt="image" src="https://github.com/user-attachments/assets/4043c4ef-4461-4e4c-b4e2-81a955861972" />
+
+
 
 ## Result 
+-17 135039" src="https://github.com/user-attachments/assets/4e9a85a7-802f-419d-887e-1de5a8783726" />
 
 This experiment successfully demonstrated the creation of a custom VPC and deployment of a public-facing web server in AWS. By configuring networking components such as subnets, route tables, and security groups, and by launching an EC2 instance with a web server, the basic architecture of a cloud-hosted application was understood.
